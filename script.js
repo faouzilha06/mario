@@ -37,4 +37,5 @@ for(index=0; index<button.length ;index++){
 
     console.log(myCollection[cle].titre);
    })
-}
+} 
+
